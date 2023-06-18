@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'salaryp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57AB9A0153E741579F6E2CF2E1BAB8C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E61CA81AF314464860919A2D2B1CC17 }}
